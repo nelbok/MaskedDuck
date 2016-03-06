@@ -1,5 +1,9 @@
 ﻿/*! \mainpage The adventures of the masked duck
 
+# The adventures of the masked duck
+
+![Masked Duck](apps/game/img/main.png)
+
 <h2>Summary:</h2>
 <pre>
 English version: (by ntome on qt-fr channel on freenode network)
