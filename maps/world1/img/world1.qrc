@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/world1">
+        <file>world.png</file>
+        <file>info/danger.png</file>
+        <file>info/move.png</file>
+        <file>info/open.png</file>
+        <file>info/jump.png</file>
+        <file>direction/down.png</file>
+        <file>direction/down_right.png</file>
+        <file>direction/right.png</file>
+        <file>direction/up.png</file>
+        <file>direction/up_right.png</file>
+        <file>info/get.png</file>
+        <file>block/background.png</file>
+        <file>block/death_chocolate.png</file>
+        <file>block/decor_earth.png</file>
+        <file>block/decor_ground.png</file>
+        <file>block/door.png</file>
+        <file>block/earth.png</file>
+        <file>block/fore_earth.png</file>
+        <file>block/fore_ground.png</file>
+        <file>block/ground.png</file>
+        <file>block/platform.png</file>
+        <file>block/tree.png</file>
+    </qresource>
+</RCC>

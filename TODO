@@ -1,0 +1,52 @@
+├── apps
+│   ├── editor
+│   ├── game
+│   └── generate
+├── libs
+│   ├── core
+│   └── graphics engine
+└── maps
+
+
+Editor:
+- Pouvoir positionner / supprimer un baseground en sélectionnant son image
+- Pouvoir positionner le depart du joueur
+- Pouvoir positionner les door
+- Mettre à jour save / load
+- Mettre à jour "Generate"
+- Compiler et tester dans Game
+
+Game:
+- Faire les mondes 0, 1, 2, 3
+- Gérer le GAME OVER
+- Améliorer le saut ainsi que la chute
+- Créer une des world items porte qui empeche de passer
+- Déverrouiller les portes avec un montant en oeufs
+- Sauvegarder l'état dès que la porte est déverrouillé
+- Commentez tout le projet
+- Faire une plateform qui bouge
+- Gérer le cas où si la plateform bouge, le duck bouge aussi
+- Créer une classe ennemi
+- Gérer son déplacement dans le niveau
+- Gérer la collision entre l'ennemi et le duck
+- Mettre un degrade noir quand on perd
+- Utiliser QPixmapCache
+- Simplifier les events keyboard
+- Ajouter la gestion de la langue
+- Ajouter un symbole de victoire pour chaque boss
+- Afficher le symbole de victoire sur scene menu / select world
+
+Generate:
+- Déplacer le code de génération
+
+Core:
+
+Graphics Engine:
+- Factoriser le code world de Game / Editor
+- Factoriser le code scene_world de Game / Editor
+- Corriger le scene rect
+
+Maps:
+- Générer le code dynamiquement en fonction des fichiers QSettings
+
+Bugs:

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/world2">
+        <file>world.png</file>
+    </qresource>
+</RCC>

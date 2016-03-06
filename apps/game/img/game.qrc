@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/game/duck">
+        <file>duck-1.png</file>
+        <file>duck-2.png</file>
+        <file>duck-3.png</file>
+    </qresource>
+    <qresource prefix="/game">
+        <file>world/nothing.png</file>
+        <file>world/road.png</file>
+        <file>world/boss.png</file>
+        <file>world/level.png</file>
+        <file>world/pnj.png</file>
+        <file>world/return.png</file>
+        <file>main.png</file>
+    </qresource>
+</RCC>
